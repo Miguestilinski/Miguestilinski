@@ -43,7 +43,7 @@ Liderando el diseño arquitectónico y la implementación full-stack de una intr
 ### Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguestilinski&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+  <img src="https://miguel-github-stats.vercel.app/api?username=Miguestilinski&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
 </p>
 
 ---
